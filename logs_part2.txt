@@ -1,0 +1,64 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0    \
+Alexanders-MBP:hillel_kolyadavika Vika$ git reflog\
+8d93c8d (HEAD -> master, origin/master, origin/HEAD, first, develop) HEAD@\{0\}: merge develop: Fast-forward\
+ea40303 (test, release) HEAD@\{1\}: checkout: moving from develop to master\
+8d93c8d (HEAD -> master, origin/master, origin/HEAD, first, develop) HEAD@\{2\}: merge first: Fast-forward\
+686675f (second) HEAD@\{3\}: checkout: moving from first to develop\
+8d93c8d (HEAD -> master, origin/master, origin/HEAD, first, develop) HEAD@\{4\}: rebase -i (finish): returning to refs/heads/first\
+8d93c8d (HEAD -> master, origin/master, origin/HEAD, first, develop) HEAD@\{5\}: rebase -i (pick): Adding index2.html\
+7d5497e HEAD@\{6\}: commit: index.html\
+306197d HEAD@\{7\}: rebase -i (pick): Adding a new image to the folder\
+dd7266c HEAD@\{8\}: rebase -i (continue): Changing html and deleting an image\
+686675f (second) HEAD@\{9\}: rebase -i (start): checkout develop\
+108c3d3 HEAD@\{10\}: checkout: moving from develop to first\
+686675f (second) HEAD@\{11\}: merge second: Fast-forward\
+a0b85a8 HEAD@\{12\}: checkout: moving from second to develop\
+686675f (second) HEAD@\{13\}: rebase -i (finish): returning to refs/heads/second\
+686675f (second) HEAD@\{14\}: rebase -i (pick): Changing stules.css\
+e44a1df HEAD@\{15\}: rebase -i (pick): Adding index3.html\
+dde53dc HEAD@\{16\}: commit (amend): Adding some images to the folder and changing index. html and change commit message\
+e45637b HEAD@\{17\}: rebase -i: fast-forward\
+a0b85a8 HEAD@\{18\}: rebase -i (start): checkout develop\
+c517ef5 HEAD@\{19\}: rebase -i (finish): returning to refs/heads/second\
+c517ef5 HEAD@\{20\}: rebase -i (pick): Changing stules.css\
+9684ada HEAD@\{21\}: rebase -i (pick): Adding index3.html\
+e45637b HEAD@\{22\}: rebase -i (pick): Adding some images to the folder and changing index. html\
+a0b85a8 HEAD@\{23\}: rebase -i (start): checkout develop\
+2b964f2 HEAD@\{24\}: commit: Changing stules.css\
+6361828 HEAD@\{25\}: commit: Adding index3.html\
+bb50c4f HEAD@\{26\}: commit: Adding some images to the folder and changing index. html\
+ea40303 (test, release) HEAD@\{27\}: checkout: moving from first to second\
+108c3d3 HEAD@\{28\}: commit: Changing index2.html\
+799a5a2 HEAD@\{29\}: commit: Adding index2.html\
+8619773 HEAD@\{30\}: commit: Changing index.html\
+d3249ee HEAD@\{31\}: commit: Adding a new image to the folder\
+c8a8f6c HEAD@\{32\}: commit: Changing html and deleting an image\
+ea40303 (test, release) HEAD@\{33\}: checkout: moving from develop to first\
+a0b85a8 HEAD@\{34\}: commit: A few changes to develop branch\
+ea40303 (test, release) HEAD@\{35\}: checkout: moving from master to develop\
+ea40303 (test, release) HEAD@\{36\}: merge develop: Fast-forward\
+f0b8d17 HEAD@\{37\}: checkout: moving from release to master\
+ea40303 (test, release) HEAD@\{38\}: merge develop: Fast-forward\
+5214125 HEAD@\{39\}: checkout: moving from test to release\
+ea40303 (test, release) HEAD@\{40\}: merge develop: Fast-forward\
+1e6b86f HEAD@\{41\}: checkout: moving from develop to test\
+ea40303 (test, release) HEAD@\{42\}: commit (merge): Changing index.html\
+afd404c HEAD@\{43\}: checkout: moving from release to develop\
+5214125 HEAD@\{44\}: commit: Changing index.html\
+005ec63 HEAD@\{45\}: commit: Adding styles folder and file\
+afd404c HEAD@\{46\}: checkout: moving from develop to release\
+afd404c HEAD@\{47\}: checkout: moving from test to develop\
+1e6b86f HEAD@\{48\}: commit: changing html file\
+0a1a924 HEAD@\{49\}: commit: Adding images folder\
+afd404c HEAD@\{50\}: checkout: moving from develop to test\
+afd404c HEAD@\{51\}: commit: adding index.html\
+f0b8d17 HEAD@\{52\}: checkout: moving from master to develop\
+f0b8d17 HEAD@\{53\}: commit: Adding readme1.md file\
+97fa91f HEAD@\{54\}: clone: from https://github.com/Konigina/hillel_kolyadavika.git}
